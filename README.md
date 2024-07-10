@@ -1,16 +1,17 @@
-## Hi there 👋
+# Merith Bot
 
-<!--
-**MerithBot/MerithBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre
+
+Merith é um bot para Discord desenvolvido em Python utilizando a biblioteca discord.py. Ela oferece funcionalidades de moderação e diversão, incluindo um sistema de moeda virtual chamado **Merith Coins** para interação dos usuários.
+
+## Funcionalidades
+
+- **Moderação**: Comandos para gerenciar o seu servidor, como banir, silenciar, limpar mensagens, etc.
+- **Diversão**: Jogos, memes e outras funções para entreter os membros do seu servidor.
+- **Merith Coins**: Um sistema de moeda virtual que permite aos usuários ganhar e gastar moedas dentro do servidor.
+
+## Contato
+
+Para sugestões, problemas ou dúvidas, entre em contato através de merithbot@gmail.com.
